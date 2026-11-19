@@ -1,0 +1,8 @@
+{
+  "name": "Remix DocVault - Secure Document Management",
+  "description": "Modern and professional secure document management SaaS application with role-based access, document sharing, preview, and audit activity logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
